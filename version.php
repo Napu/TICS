@@ -25,9 +25,9 @@
  */
 defined('MOODLE_INTERNAL') || die();
 $plugin->component = 'TICS';
-$plugin->version = 2017100900;
+$plugin->version = 2017100901;
 $plugin->release = 'v0.0';
 $plugin->requires = 2017100900;
 $plugin->maturity = MATURITY_ALPHA;
-$plugin->cron = 0;
-$plugin->dependencies = array();
+//$plugin->cron = 0;
+//$plugin->dependencies = array();
